@@ -1,0 +1,6 @@
+domain: test.events
+api:
+  db:
+    name: evermeet
+    connection: 'mongodb://mongo:27017'
+    password: yeibae8ceX4japhukuyaegeiZ8pha6uR
